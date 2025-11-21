@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env
+*.env
+
+# Build / packaging
+*.egg-info/
+/dist/
+/build/
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit / app secrets
+.streamlit/secrets.toml
